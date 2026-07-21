@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment Variables & Secrets
+.env
+
+# SQLite Databases & Storage
+*.db
+clinic.db
+appointments.db
+backend/storage/*.faiss
+backend/storage/*.json
+
+# IDE Files
+.vscode/
+.idea/
