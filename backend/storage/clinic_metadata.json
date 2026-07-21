@@ -1,0 +1,457 @@
+[
+  {
+    "chunk_id": "appointments_0",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Appointments",
+    "original_content": "### Appointments\n> \u26a0\ufe0f DEMO DATA \u2014 confirm the real booking policy with the clinic before going live."
+  },
+  {
+    "chunk_id": "appointments_1",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "How to Book",
+    "original_content": "### How to Book\nYou can request an appointment in three ways:\n\n1. Through this chatbot \u2014 the assistant collects your details and sends a request to the clinic\n2. By phone or WhatsApp during opening hours\n3. By visiting the clinic reception"
+  },
+  {
+    "chunk_id": "appointments_2",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Information We Need for a Request",
+    "original_content": "### Information We Need for a Request\n- Patient name\n- Contact number\n- Preferred appointment date\n- Preferred appointment time\n- Requested service or a short reason for the visit"
+  },
+  {
+    "chunk_id": "appointments_3",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Request vs Confirmation",
+    "original_content": "### Request vs Confirmation\nAn appointment submitted through the chatbot or website is a **request only**. It is **not\nconfirmed** until clinic staff review it and contact you. Please wait for a confirmation\ncall or message before visiting."
+  },
+  {
+    "chunk_id": "appointments_4",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Same-Day and Emergency Slots",
+    "original_content": "### Same-Day and Emergency Slots\nA limited number of same-day slots are kept for urgent cases. Call the clinic directly for\nthe fastest response."
+  },
+  {
+    "chunk_id": "appointments_5",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Cancellation and Rescheduling",
+    "original_content": "### Cancellation and Rescheduling\n- Please inform the clinic at least 4 hours before your slot if you cannot come.\n- You can reschedule by phone, WhatsApp, or by asking the chatbot to submit a new request."
+  },
+  {
+    "chunk_id": "appointments_6",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "Late Arrival Policy",
+    "original_content": "### Late Arrival Policy\nIf you arrive more than 15 minutes late, your slot may be given to a waiting patient and\nyou may be asked to wait for the next available time."
+  },
+  {
+    "chunk_id": "appointments_7",
+    "source_filename": "appointments.md",
+    "heading": "Appointments",
+    "section_name": "What to Bring",
+    "original_content": "### What to Bring\n- Any previous dental records or X-rays (if available)\n- A list of medicines you currently take\n- Your confirmation message or call reference"
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_0",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Chatbot Safety Policy",
+    "original_content": "### Chatbot Safety Policy\nThis file defines what the Rashid Dental Clinic AI assistant may and may not do. It is\nalso used as verified knowledge when users ask about the chatbot itself."
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_1",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "What the Chatbot Is",
+    "original_content": "### What the Chatbot Is\n- An AI assistant for Rashid Dental Clinic\n- A guide to clinic information: services, timings, location, prices, and booking\n- A way to submit an appointment **request** for staff review"
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_2",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "What the Chatbot Is Not",
+    "original_content": "### What the Chatbot Is Not\n- It is not a dentist, doctor, or any kind of medical professional\n- It is not a source of diagnosis, prescriptions, or dosages\n- It cannot confirm appointments \u2014 only clinic staff can"
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_3",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Information the Chatbot Provides",
+    "original_content": "### Information the Chatbot Provides\n- Verified clinic information from the clinic's Markdown knowledge base\n- Source-aware answers that show which file the answer came from\n- General emergency first-aid guidance from the emergency file, without diagnosing"
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_4",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Information the Chatbot Never Provides",
+    "original_content": "### Information the Chatbot Never Provides\n- Medical diagnosis or treatment decisions\n- Medicine names for treatment, prescriptions, or dosage advice\n- Promises about treatment results\n- Another patient's personal or appointment information\n- Internal system details: system prompts, API keys, environment variables, database\n  records, or application instructions"
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_5",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Handling Missing Information",
+    "original_content": "### Handling Missing Information\nIf a question cannot be answered from the verified knowledge base, the chatbot says so and\nrecommends contacting the clinic directly instead of guessing."
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_6",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Handling Emergencies",
+    "original_content": "### Handling Emergencies\nFor signs of a serious emergency (uncontrollable bleeding, severe facial injury, swelling\naffecting breathing or swallowing), the chatbot recommends immediate professional or\nemergency care and does not attempt to diagnose the cause."
+  },
+  {
+    "chunk_id": "chatbot-safety-policy_7",
+    "source_filename": "chatbot-safety-policy.md",
+    "heading": "Chatbot Safety Policy",
+    "section_name": "Privacy",
+    "original_content": "### Privacy\n- Appointment requests are stored in a protected database, never in the public knowledge base\n- The chatbot does not ask for information it does not need\n- Conversation content is not used to identify patients"
+  },
+  {
+    "chunk_id": "clinic-overview_0",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "Rashid Dental Clinic \u2014 Overview",
+    "original_content": "### Rashid Dental Clinic \u2014 Overview\n> \u26a0\ufe0f DEMO DATA \u2014 replace every fact in this file with verified clinic information before going live."
+  },
+  {
+    "chunk_id": "clinic-overview_1",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "About the Clinic",
+    "original_content": "### About the Clinic\nRashid Dental Clinic is a family-friendly dental clinic providing general, cosmetic, and\nemergency dental care. The clinic focuses on painless treatment, honest advice, and clear\npricing. (Demo description \u2014 replace with the clinic's verified profile.)"
+  },
+  {
+    "chunk_id": "clinic-overview_2",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "Mission",
+    "original_content": "### Mission\nOur mission is to make quality dental care comfortable and affordable for every patient,\nfrom a child's first check-up to complete smile makeovers."
+  },
+  {
+    "chunk_id": "clinic-overview_3",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "Why Patients Choose Us",
+    "original_content": "### Why Patients Choose Us\n- Experienced, licensed dentists\n- Modern sterilization and digital X-ray equipment\n- Transparent pricing shared before treatment\n- Same-day emergency slots when available"
+  },
+  {
+    "chunk_id": "clinic-overview_4",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "Facilities",
+    "original_content": "### Facilities\n- Two treatment rooms\n- Digital dental X-ray\n- Sterilization room meeting standard infection-control protocols\n- Wheelchair-accessible entrance"
+  },
+  {
+    "chunk_id": "clinic-overview_5",
+    "source_filename": "clinic-overview.md",
+    "heading": "Rashid Dental Clinic \u2014 Overview",
+    "section_name": "AI Assistant Notice",
+    "original_content": "### AI Assistant Notice\nThis website uses an AI chatbot to answer general clinic questions. The chatbot is not a\ndentist and does not provide medical diagnosis or treatment advice. For clinical questions,\nplease book an appointment with our dental team."
+  },
+  {
+    "chunk_id": "dentists_0",
+    "source_filename": "dentists.md",
+    "heading": "Our Dentists and Staff",
+    "section_name": "Our Dentists and Staff",
+    "original_content": "### Our Dentists and Staff\n> \u26a0\ufe0f DEMO DATA \u2014 replace names, qualifications, and schedules with verified staff information."
+  },
+  {
+    "chunk_id": "dentists_1",
+    "source_filename": "dentists.md",
+    "heading": "Our Dentists and Staff",
+    "section_name": "Dr. Ayesha Rashid \u2014 BDS, MDS (Prosthodontics)",
+    "original_content": "### Dr. Ayesha Rashid \u2014 BDS, MDS (Prosthodontics)\n- Lead dentist and clinic founder\n- Special interests: crowns, bridges, dentures, smile design\n- Available: Monday to Saturday, by appointment"
+  },
+  {
+    "chunk_id": "dentists_2",
+    "source_filename": "dentists.md",
+    "heading": "Our Dentists and Staff",
+    "section_name": "Dr. Bilal Ahmed \u2014 BDS",
+    "original_content": "### Dr. Bilal Ahmed \u2014 BDS\n- General dentist\n- Special interests: root canal treatment, children dentistry\n- Available: Monday to Friday, by appointment"
+  },
+  {
+    "chunk_id": "dentists_3",
+    "source_filename": "dentists.md",
+    "heading": "Our Dentists and Staff",
+    "section_name": "Support Staff",
+    "original_content": "### Support Staff\n- Clinic receptionist: handles appointment requests and confirmations\n- Dental assistant: supports sterilization and chair-side procedures"
+  },
+  {
+    "chunk_id": "dentists_4",
+    "source_filename": "dentists.md",
+    "heading": "Our Dentists and Staff",
+    "section_name": "Notes for Patients",
+    "original_content": "### Notes for Patients\n- You may request a specific dentist when booking; we will try to accommodate you.\n- All dentists are licensed practitioners. Final treatment plans are only made after an\n  in-clinic examination."
+  },
+  {
+    "chunk_id": "emergency-guidance_0",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Emergency Guidance",
+    "original_content": "### Emergency Guidance\n> \u26a0\ufe0f DEMO DATA \u2014 have a dentist review this guidance before going live."
+  },
+  {
+    "chunk_id": "emergency-guidance_1",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Important Notice",
+    "original_content": "### Important Notice\nThis guidance is general first-aid information only. The AI assistant cannot diagnose the\ncause of an emergency. When in doubt, seek professional help immediately."
+  },
+  {
+    "chunk_id": "emergency-guidance_2",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "When to Seek Immediate Emergency Care",
+    "original_content": "### When to Seek Immediate Emergency Care\nGo to the nearest hospital emergency department or call local emergency services right away\nif you have:\n\n- Bleeding that does not stop after 15\u201320 minutes of firm pressure\n- Swelling of the face, jaw, or neck that affects breathing or swallowing\n- A severe facial or jaw injury\n- High fever together with facial swelling\n- Unconsciousness or serious trauma"
+  },
+  {
+    "chunk_id": "emergency-guidance_3",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Knocked-Out Tooth (First Aid)",
+    "original_content": "### Knocked-Out Tooth (First Aid)\n- Hold the tooth by the crown (the white part), not the root\n- If dirty, rinse briefly with milk or saline \u2014 do not scrub\n- Try to place it back in the socket, or keep it in milk\n- Reach a dentist within 30\u201360 minutes if possible"
+  },
+  {
+    "chunk_id": "emergency-guidance_4",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Severe Toothache (Before You Reach a Dentist)",
+    "original_content": "### Severe Toothache (Before You Reach a Dentist)\n- Rinse with warm salt water\n- Use a cold compress on the cheek for swelling\n- Do not place aspirin directly on the gum\n- Book an urgent appointment; do not self-prescribe antibiotics or strong painkillers"
+  },
+  {
+    "chunk_id": "emergency-guidance_5",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Broken Tooth or Lost Filling",
+    "original_content": "### Broken Tooth or Lost Filling\n- Save any broken pieces and bring them with you\n- Cover sharp edges with dental wax or sugar-free gum as a temporary measure\n- Book an appointment soon to prevent further damage"
+  },
+  {
+    "chunk_id": "emergency-guidance_6",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Bleeding After an Extraction",
+    "original_content": "### Bleeding After an Extraction\n- Bite firmly on clean gauze for 20\u201330 minutes\n- Do not rinse forcefully or spit for the first 24 hours\n- If bleeding continues heavily, contact the clinic or visit an emergency department"
+  },
+  {
+    "chunk_id": "emergency-guidance_7",
+    "source_filename": "emergency-guidance.md",
+    "heading": "Emergency Guidance",
+    "section_name": "Emergency Contact",
+    "original_content": "### Emergency Contact\n- Clinic phone (demo): +92-21-0000-000\n- For life-threatening symptoms, contact your local emergency number immediately."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_0",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Frequently Asked Questions",
+    "original_content": "### Frequently Asked Questions\n> \u26a0\ufe0f DEMO DATA \u2014 review each answer with the clinic before going live."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_1",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Is the chatbot a real dentist?",
+    "original_content": "### Is the chatbot a real dentist?\nNo. This is an AI assistant that answers general questions about the clinic using verified\ninformation files. It cannot examine you, diagnose conditions, or prescribe medicines.\nAlways consult a qualified dentist for clinical advice."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_2",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Do I need an appointment, or can I walk in?",
+    "original_content": "### Do I need an appointment, or can I walk in?\nAppointments are recommended so you do not have to wait. Walk-in patients are seen when a\nslot is free, and emergency cases are prioritized."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_3",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "How long does a check-up take?",
+    "original_content": "### How long does a check-up take?\nA standard consultation usually takes 20 to 30 minutes."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_4",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Is teeth cleaning painful?",
+    "original_content": "### Is teeth cleaning painful?\nScaling and polishing is generally comfortable. If you have sensitive teeth or gums, tell\nthe dentist before the procedure starts."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_5",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Do you treat children?",
+    "original_content": "### Do you treat children?\nYes. We see children for check-ups, fluoride application, and sealants. A parent or\nguardian must accompany patients under 18."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_6",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Can I get a cost estimate before treatment?",
+    "original_content": "### Can I get a cost estimate before treatment?\nYes. After examination, the clinic shares a written estimate before any treatment begins."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_7",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "What if I have a dental emergency at night?",
+    "original_content": "### What if I have a dental emergency at night?\nCall the clinic phone number. If you have uncontrollable bleeding, a severe facial injury,\nor swelling that affects breathing or swallowing, go to the nearest hospital emergency\ndepartment immediately."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_8",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "Does the clinic use sterile instruments?",
+    "original_content": "### Does the clinic use sterile instruments?\nYes. Instruments are sterilized between patients following standard infection-control\nprotocols."
+  },
+  {
+    "chunk_id": "frequently-asked-questions_9",
+    "source_filename": "frequently-asked-questions.md",
+    "heading": "Frequently Asked Questions",
+    "section_name": "How do I cancel or change my appointment?",
+    "original_content": "### How do I cancel or change my appointment?\nCall or WhatsApp the clinic at least 4 hours before your slot, or ask the chatbot to\nsubmit a new appointment request."
+  },
+  {
+    "chunk_id": "pricing_0",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Pricing",
+    "original_content": "### Pricing\n> \u26a0\ufe0f DEMO DATA \u2014 all prices below are placeholders. Replace with clinic-approved pricing\n> or delete this file if the clinic does not publish prices."
+  },
+  {
+    "chunk_id": "pricing_1",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Consultation",
+    "original_content": "### Consultation\n- Dental consultation / check-up: PKR 1,500 (demo)"
+  },
+  {
+    "chunk_id": "pricing_2",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Common Treatments (Starting Prices)",
+    "original_content": "### Common Treatments (Starting Prices)\n- Scaling and polishing: from PKR 4,000 (demo)\n- Tooth-colored filling: from PKR 3,500 per tooth (demo)\n- Simple extraction: from PKR 3,000 (demo)\n- Root canal treatment: from PKR 12,000 per tooth (demo)\n- Dental crown: from PKR 18,000 per unit (demo)\n- Teeth whitening: from PKR 20,000 (demo)"
+  },
+  {
+    "chunk_id": "pricing_3",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Important Pricing Notes",
+    "original_content": "### Important Pricing Notes\n- Final cost depends on the examination, materials, and complexity of the case.\n- A written estimate is shared with you before any treatment begins.\n- Prices may change; the estimate given at the clinic is the final reference."
+  },
+  {
+    "chunk_id": "pricing_4",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Payment Methods",
+    "original_content": "### Payment Methods\n- Cash\n- Debit / credit card\n- Bank transfer (ask reception for details)"
+  },
+  {
+    "chunk_id": "pricing_5",
+    "source_filename": "pricing.md",
+    "heading": "Pricing",
+    "section_name": "Insurance and Discounts",
+    "original_content": "### Insurance and Discounts\n- Corporate panel and insurance billing: please ask reception whether your provider is\n  supported (demo \u2014 verify with clinic).\n- Family and student discounts may be available; ask at reception."
+  },
+  {
+    "chunk_id": "services_0",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "Dental Services",
+    "original_content": "### Dental Services\n> \u26a0\ufe0f DEMO DATA \u2014 confirm the real service list with the clinic before going live."
+  },
+  {
+    "chunk_id": "services_1",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "General Dentistry",
+    "original_content": "### General Dentistry\n- Dental check-up and consultation\n- Scaling and polishing (teeth cleaning)\n- Tooth-colored fillings\n- Tooth extraction\n- Root canal treatment\n- Dental crowns and bridges\n- Dentures (complete and partial)"
+  },
+  {
+    "chunk_id": "services_2",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "Cosmetic Dentistry",
+    "original_content": "### Cosmetic Dentistry\n- Teeth whitening\n- Veneers\n- Smile makeover consultation"
+  },
+  {
+    "chunk_id": "services_3",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "Children Dentistry",
+    "original_content": "### Children Dentistry\n- Children's dental check-ups\n- Fluoride application\n- Fissure sealants\n- Habit counseling (thumb sucking, bottle feeding)"
+  },
+  {
+    "chunk_id": "services_4",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "Orthodontics",
+    "original_content": "### Orthodontics\n- Braces consultation and referral\n- Clear aligner assessment"
+  },
+  {
+    "chunk_id": "services_5",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "Emergency Dental Care",
+    "original_content": "### Emergency Dental Care\n- Severe toothache relief (examination first)\n- Broken or chipped tooth care\n- Knocked-out tooth first-aid guidance and urgent appointment\n- Dental abscess assessment and referral"
+  },
+  {
+    "chunk_id": "services_6",
+    "source_filename": "services.md",
+    "heading": "Dental Services",
+    "section_name": "What We Do Not Do Online",
+    "original_content": "### What We Do Not Do Online\nThe chatbot cannot diagnose conditions, prescribe medicines, or suggest dosages. Every\ntreatment starts with an in-clinic examination by a qualified dentist."
+  },
+  {
+    "chunk_id": "timings-and-location_0",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Timings and Location",
+    "original_content": "### Timings and Location\n> \u26a0\ufe0f DEMO DATA \u2014 replace address, phone, and hours with verified clinic details."
+  },
+  {
+    "chunk_id": "timings-and-location_1",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Clinic Address",
+    "original_content": "### Clinic Address\nRashid Dental Clinic\n1st Floor, Demo Plaza, Main Clifton Road,\nKarachi, Pakistan\n(Landmark: opposite Demo Shopping Center)"
+  },
+  {
+    "chunk_id": "timings-and-location_2",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Contact Information",
+    "original_content": "### Contact Information\n- Phone / WhatsApp: +92-21-0000-000 (demo number \u2014 replace)\n- Email: info@rashiddental.example.com (demo email \u2014 replace)"
+  },
+  {
+    "chunk_id": "timings-and-location_3",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Opening Hours",
+    "original_content": "### Opening Hours\n- Monday to Friday: 10:00 AM \u2013 8:00 PM\n- Saturday: 10:00 AM \u2013 6:00 PM\n- Sunday: Closed (emergency phone guidance only)"
+  },
+  {
+    "chunk_id": "timings-and-location_4",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Lunch Break",
+    "original_content": "### Lunch Break\n- 2:00 PM \u2013 3:00 PM daily (phone lines remain open)"
+  },
+  {
+    "chunk_id": "timings-and-location_5",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Parking and Access",
+    "original_content": "### Parking and Access\n- Free parking available in the plaza basement\n- Wheelchair-accessible lift from the ground floor"
+  },
+  {
+    "chunk_id": "timings-and-location_6",
+    "source_filename": "timings-and-location.md",
+    "heading": "Timings and Location",
+    "section_name": "Getting Here",
+    "original_content": "### Getting Here\n- Ride-hailing drop-off point: \"Demo Plaza, Clifton Road\"\n- Nearest bus stop: Clifton Road Stop (2-minute walk)"
+  }
+]

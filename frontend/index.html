@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rashid Dental Clinic</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <h1>Rashid Dental Clinic</h1>
+            <p>Your smile, our priority. Experience premium dental care with modern technology.</p>
+            <a href="#services" class="btn">Explore Services</a>
+        </div>
+    </header>
+
+    <section id="services" class="container section">
+        <h2>Our Main Services</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Routine Checkups</h3>
+                <p>Keep your teeth clean, healthy, and cavity-free with our regular cleanings.</p>
+            </div>
+            <div class="card">
+                <h3>Orthodontics</h3>
+                <p>Braces and aligners tailored to give you a perfectly straight smile.</p>
+            </div>
+            <div class="card">
+                <h3>Emergency Care</h3>
+                <p>Immediate care for chipped teeth, severe pain, and sudden swellings.</p>
+            </div>
+        </div>
+    </section>
+
+    <div id="chat-widget" class="chat-widget">
+        <button id="chat-launcher" class="chat-launcher" aria-label="Open Chat">
+            <svg viewBox="0 0 24 24" class="icon"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>
+        </button>
+
+        <div id="chat-window" class="chat-window hidden">
+            <div class="chat-header">
+                <div class="header-info">
+                    <h4>Rashid Dental AI</h4>
+                    <span class="badge">Virtual Assistant</span>
+                </div>
+                <button id="chat-close" class="chat-close" aria-label="Close Chat">×</button>
+            </div>
+
+            <div id="chat-messages" class="chat-messages">
+                <div class="message assistant">
+                    <p>Hello! I am the official AI Assistant for Rashid Dental Clinic. How can I help you today?</p>
+                </div>
+                
+                <div id="chat-suggestions" class="suggestions-container">
+                    <button class="suggest-btn" data-query="What are your opening hours?">Opening Hours</button>
+                    <button class="suggest-btn" data-query="Where is the clinic located?">Clinic Location</button>
+                    <button id="book-btn-trigger" class="suggest-btn-special">📅 Book Appointment Request</button>
+                </div>
+            </div>
+
+            <div id="appointment-form-container" class="appointment-form-container hidden">
+                <div class="form-header">
+                    <h5>Request an Appointment</h5>
+                    <button id="close-form-btn" class="close-form-btn">Back to Chat</button>
+                </div>
+                <form id="appointment-form">
+                    <div class="form-group">
+                        <label for="patient_name">Full Name *</label>
+                        <input type="text" id="patient_name" required placeholder="John Doe">
+                    </div>
+                    <div class="form-group">
+                        <label for="contact_number">Contact Number *</label>
+                        <input type="tel" id="contact_number" required placeholder="+92-300-1234567">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="pref_date">Preferred Date *</label>
+                            <input type="date" id="pref_date" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="pref_time">Preferred Time *</label>
+                            <input type="time" id="pref_time" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="service">Service / Reason for Visit</label>
+                        <input type="text" id="service" placeholder="Routine checkup, cleaning, etc.">
+                    </div>
+                    <button type="submit" class="submit-booking-btn">Submit Request</button>
+                </form>
+                <div class="form-disclaimer">
+                    ⚠️ <em>Please note: Appointments are requested but NOT confirmed until our clinic staff contacts you to approve.</em>
+                </div>
+            </div>
+
+            <div id="chat-loading" class="chat-loading hidden">
+                <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+            </div>
+
+            <div class="chat-footer">
+                <input type="text" id="chat-input" placeholder="Ask about timings, services..." aria-label="Chat input">
+                <button id="chat-send" class="btn-send">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="widget.js"></script>
+</body>
+</html>
